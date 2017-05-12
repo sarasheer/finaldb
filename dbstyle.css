@@ -1,0 +1,33 @@
+table, th, td {
+    border: 1px solid black;
+   
+}
+
+table {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+th, td {
+	padding: .5em .75em;
+}
+
+nav {
+	text-align: right;
+}
+
+h1 { 
+	text-align: center;
+}
+
+body {background-image: url("blankmex.png");
+	background-size: cover;
+	
+}
+
+footer {
+    text-align: right;
+}
+
+
+
